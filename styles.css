@@ -59,7 +59,7 @@ h1 {
 .center {
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-30%, -30%);
   background: #e74c3c;
   font-size: 1.2rem;
   padding: 20px 25px;
@@ -85,7 +85,7 @@ h1 {
 .right {
   top: 50%;
   right: -50px; /* Cambiado de 0 a -50px para moverlo más hacia la derecha */
-  transform: translateY(-50%);
+  transform: translateY(-130%);
   background: #9b59b6;
 }
 
@@ -96,7 +96,7 @@ h1 {
 .left {
   top: 50%;
   left: -50px; /* Cambiado de 0 a -50px para moverlo más hacia la izquierda */
-  transform: translateY(-50%);
+  transform: translateY(-150%);
   background: #f1c40f;
 }
 
